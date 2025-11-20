@@ -1,0 +1,130 @@
+# =============================================
+# Cursor & IDE Files
+# =============================================
+.cursorrules
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =============================================
+# Python
+# =============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =============================================
+# Virtual Environments
+# =============================================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# =============================================
+# Jupyter Notebooks
+# =============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# =============================================
+# Data Files (keep structure, ignore generated data)
+# =============================================
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# =============================================
+# Model Files & ML Artifacts
+# =============================================
+*.pkl
+*.joblib
+*.h5
+*.model
+models/
+checkpoints/
+
+# =============================================
+# LaTeX
+# =============================================
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+report/*.pdf
+report/*.aux
+report/*.log
+
+# =============================================
+# OS Files
+# =============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =============================================
+# IDE & Editor
+# =============================================
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# =============================================
+# Logs & Temporary Files
+# =============================================
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+temp/
+
+# =============================================
+# Environment Variables
+# =============================================
+.env
+.env.local
+.env.*.local
+
+# =============================================
+# Testing
+# =============================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
