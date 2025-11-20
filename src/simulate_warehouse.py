@@ -229,7 +229,7 @@ class WarehouseSimulator:
                 for j in range(i + 1, len(self.all_points)):
                     ax.plot([self.all_points[i][0], self.all_points[j][0]],
                            [self.all_points[i][1], self.all_points[j][1]],
-                           'gray', alpha=0.15, linewidth=0.5, zorder=1)
+                           'gray', alpha=0.22, linewidth=0.5, zorder=1)
         
         # Set labels and title
         ax.set_xlabel('X Coordinate', fontsize=12)
