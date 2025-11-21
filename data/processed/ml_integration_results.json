@@ -1,0 +1,63 @@
+{
+  "baseline": {
+    "total_distance": 66.0,
+    "total_predicted_time": 108.09030566147368,
+    "solve_time": 0.08160591125488281,
+    "route": [
+      0,
+      12,
+      4,
+      17,
+      1,
+      6,
+      15,
+      10,
+      14,
+      9,
+      2,
+      7,
+      11,
+      8,
+      13,
+      3,
+      16,
+      5,
+      0
+    ]
+  },
+  "ml": {
+    "total_distance": 74.92431441056758,
+    "total_predicted_time": 106.48,
+    "solve_time": 0.005698680877685547,
+    "route": [
+      0,
+      16,
+      5,
+      3,
+      13,
+      8,
+      11,
+      7,
+      2,
+      9,
+      15,
+      10,
+      14,
+      6,
+      17,
+      1,
+      4,
+      12,
+      0
+    ]
+  },
+  "differences": {
+    "distance_diff_percent": 13.521688500859963,
+    "time_diff_percent": -1.4897780625368617
+  },
+  "parameters": {
+    "n_robots": 5,
+    "base_congestion": 0.5,
+    "obstacle_density": 0.1
+  }
+}

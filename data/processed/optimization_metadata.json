@@ -1,0 +1,11 @@
+{
+  "n_robots": 1,
+  "n_points": 18,
+  "depot_index": 0,
+  "total_distance": 66.0,
+  "solve_time": 0.01861262321472168,
+  "n_routes": 1,
+  "route_distances": [
+    66.0
+  ]
+}

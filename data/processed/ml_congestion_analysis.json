@@ -1,0 +1,34 @@
+[
+  {
+    "Congestion": 0.2,
+    "Distance Baseline": 66,
+    "Distance ML": 74.84209340581624,
+    "Predicted Time Baseline": 98.43431006057578,
+    "Predicted Time ML": 97.37,
+    "Am\u00e9lioration (%)": 1.081238909401416
+  },
+  {
+    "Congestion": 0.4,
+    "Distance Baseline": 66,
+    "Distance ML": 74.92431441056758,
+    "Predicted Time Baseline": 106.14166442058702,
+    "Predicted Time ML": 104.91,
+    "Am\u00e9lioration (%)": 1.1603967464713434
+  },
+  {
+    "Congestion": 0.6,
+    "Distance Baseline": 66,
+    "Distance ML": 74.84209340581624,
+    "Predicted Time Baseline": 109.16433791254356,
+    "Predicted Time ML": 108.05,
+    "Am\u00e9lioration (%)": 1.0207893290538779
+  },
+  {
+    "Congestion": 0.8,
+    "Distance Baseline": 66,
+    "Distance ML": 74.84209340581624,
+    "Predicted Time Baseline": 109.88541051737491,
+    "Predicted Time ML": 108.77,
+    "Am\u00e9lioration (%)": 1.0150669794317642
+  }
+]

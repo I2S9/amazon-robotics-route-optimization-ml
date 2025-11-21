@@ -1,0 +1,12 @@
+{
+  "grid_size": [
+    20,
+    20
+  ],
+  "n_robots": 3,
+  "n_pickup_points": 10,
+  "n_delivery_stations": 5,
+  "distance_type": "euclidean",
+  "random_seed": 42,
+  "total_points": 18
+}
