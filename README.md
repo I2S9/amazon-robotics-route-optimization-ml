@@ -222,14 +222,6 @@ This project demonstrates:
 - Integration with actual warehouse data
 - Distributed optimization for large-scale warehouses
 
-## Contributing
-
-This is a portfolio project for an Applied Scientist Internship position. For questions or feedback, please contact the repository owner.
-
-## License
-
-This project is for educational and portfolio purposes.
-
 ## Acknowledgments
 
 - Google OR-Tools for optimization algorithms
