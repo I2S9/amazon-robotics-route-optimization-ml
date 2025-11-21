@@ -50,17 +50,18 @@ venv.bak/
 *.ipynb_checkpoints/
 
 # =============================================
-# Data Files (keep structure, ignore generated data)
+# Data Files (keep structure and results for portfolio)
 # =============================================
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+# Allow all result files in data/ directories for portfolio visibility
+# Only ignore very large binary files that are not essential
+data/raw/*.npy
+data/processed/*.npy
 
 # =============================================
 # Model Files & ML Artifacts
 # =============================================
-*.pkl
+# Keep .pkl files for portfolio (they show trained models)
+# *.pkl
 *.joblib
 *.h5
 *.model
