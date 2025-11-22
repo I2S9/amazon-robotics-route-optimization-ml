@@ -32,23 +32,23 @@ amazon-robotics-route-optimization-ml/
 ├── src/
 │   ├── simulate_warehouse.py      # Warehouse simulation and distance matrix generation
 │   ├── optimize_routes.py          # OR-Tools route optimization (TSP/VRP)
-│   ├── generate_ml_data.py        # ML dataset generation
+│   ├── generate_ml_data.py         # ML dataset generation
 │   └── utils.py                    # Helper functions (distances, plotting, etc.)
 │
 ├── notebooks/
 │   ├── 03_ml_data_generation.ipynb # ML dataset generation and analysis
-│   ├── 04_ml_training.ipynb       # Model training and evaluation
-│   └── 05_ml_integration.ipynb    # ML-enhanced optimization and visualization
+│   ├── 04_ml_training.ipynb        # Model training and evaluation
+│   └── 05_ml_integration.ipynb     # ML-enhanced optimization and visualization
 │
 ├── data/
 │   ├── raw/                        # Raw data (warehouse layout, distance matrices)
 │   └── processed/                  # Processed data (optimized routes, ML models, results)
 │
-├── assets/                         # Screenshots and visualizations (optional)
+├── assets/                         # Screenshots and visualizations
 │
-├── report/                         # Project report (optional)
+├── report/                         # Project report
 │
-├── run_all_notebooks.py           # Script to execute all notebooks in order
+├── run_all_notebooks.py            # Script to execute all notebooks in order
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
 ```
