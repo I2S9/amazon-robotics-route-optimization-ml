@@ -30,7 +30,7 @@ The solution integrates:
 amazon-robotics-route-optimization-ml/
 │
 ├── src/
-│   ├── simulate_warehouse.py      # Warehouse simulation and distance matrix generation
+│   ├── simulate_warehouse.py       # Warehouse simulation and distance matrix generation
 │   ├── optimize_routes.py          # OR-Tools route optimization (TSP/VRP)
 │   ├── generate_ml_data.py         # ML dataset generation
 │   └── utils.py                    # Helper functions (distances, plotting, etc.)

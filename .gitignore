@@ -80,7 +80,6 @@ checkpoints/
 *.fls
 *.bbl
 *.blg
-report/*.pdf
 report/*.aux
 report/*.log
 
